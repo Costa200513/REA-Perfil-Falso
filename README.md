@@ -100,7 +100,7 @@ No utiliza frameworks externos ni librerías adicionales.
 ├── img/
 │   └── imágenes del recurso en formato .webp
 └── README.md
-
+```
 Las imágenes deben estar ubicadas dentro de la carpeta `img` para que el sitio las cargue correctamente.
 
 Se recomienda utilizar imágenes en formato `.webp`, ya que permiten reducir el peso de los archivos y mejorar la carga del sitio, especialmente en dispositivos móviles.
