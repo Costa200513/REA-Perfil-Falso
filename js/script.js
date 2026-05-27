@@ -47,18 +47,18 @@
 
     const stories = {
       liceo: [
-        { image: "img/escalera.png", title: "Liceo", caption: "Escalera del liceo." },
-        { image: "img/merienda.png", title: "Liceo", caption: "Merienda compartida." },
-        { image: "img/patio.png", title: "Liceo", caption: "Patio del liceo." }
+        { image: "img/escalera.webp", title: "Liceo", caption: "Escalera del liceo." },
+        { image: "img/merienda.webp", title: "Liceo", caption: "Merienda compartida." },
+        { image: "img/patio.webp", title: "Liceo", caption: "Patio del liceo." }
       ],
       gym: [
-        { image: "img/gym.jpeg", title: "Gym", caption: "Mi segunda casa" }
+        { image: "img/gym.webp", title: "Gym", caption: "Mi segunda casa" }
       ],
       cancha: [
-        { image: "img/cancha.png", title: "Cancha", caption: "Como todos los viernes." }
+        { image: "img/cancha.webp", title: "Cancha", caption: "Como todos los viernes." }
       ],
       casa: [
-        { image: "img/Casa.png", title: "Casa", caption: "Afuera de casa" }
+        { image: "img/Casa.webp", title: "Casa", caption: "Afuera de casa" }
       ]
     };
 
