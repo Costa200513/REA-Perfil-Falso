@@ -5,11 +5,13 @@
 El perfil presentado es completamente ficticio. No pertenece a una persona real. Todos los nombres, publicaciones, historias destacadas, imágenes, textos y datos fueron creados o seleccionados con fines educativos.
 
 ---
-## Vista en línea
+### Enlace de ejemplo
 
-El recurso puede visualizarse desde GitHub Pages:
+El recurso puede visualizarse en línea desde el siguiente enlace:
 
-[Ver recurso publicado](https://costa200513.github.io/REA-Perfil-Falso/?v=2)
+<a href="https://costa200513.github.io/REA-Perfil-Falso/?v=2" target="_blank" rel="noopener noreferrer">
+  Ver recurso publicado en GitHub Pages
+</a>
 
 ---
 ## Propósito del recurso
