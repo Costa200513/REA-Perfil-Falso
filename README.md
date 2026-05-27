@@ -173,8 +173,8 @@ Recurso creado por:
 - Mateus Moraes
 - Thiago Sosa
 
-**Profesorado de Informática**  
-**Metodología EaD y REA**  
+**3° año del Profesorado de Informática**  
+**Metodología Educación a Distancia y REA**  
 **Año 2026**
 
 ---
