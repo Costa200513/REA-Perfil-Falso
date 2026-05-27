@@ -5,7 +5,13 @@
 El perfil presentado es completamente ficticio. No pertenece a una persona real. Todos los nombres, publicaciones, historias destacadas, imágenes, textos y datos fueron creados o seleccionados con fines educativos.
 
 ---
+## Vista en línea
 
+El recurso puede visualizarse desde GitHub Pages:
+
+[Ver recurso publicado](https://costa200513.github.io/REA-Perfil-Falso/?v=2)
+
+---
 ## Propósito del recurso
 
 El propósito principal de este recurso es ayudar a estudiantes, docentes y otros usuarios a reflexionar sobre cómo un perfil de red social puede revelar información personal, incluso cuando esa información no aparece escrita de forma directa.
